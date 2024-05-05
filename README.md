@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Subly: Newsletter Hub
+    Timestamp: 11:32 / 6:39:56 - Bhaumic
 
-## Getting Started
+![Newsletter Image](./public/fancybackground.png)
 
-First, run the development server:
+## Important Note :
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<span style="color: red; font-weight: bold; font-size: 1.5rem;">Make sure to pull the latest changes from the main branch before creating a new branch or a pull request.</span>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Every time you push please attach your name as well as add video timestamp to this README file.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    How to use this repository
 
-## Learn More
+    Rules:
+    1. Do not push directly to the main branch.
+    2. Create a new branch for each feature you are working on.
+    3. Once you are done with the feature, create a pull request to the main branch.
+    4. Assign the pull request to at least one other team member for review.
+    5. Once the pull request is approved, merge it to the main branch.
+    6. Delete the branch after merging the pull request.
+    7. Do not merge your own pull request.
 
-To learn more about Next.js, take a look at the following resources:
+    How to create a new branch:
+    1. Run `git checkout -b <branch-name>` to create a new branch.
+    2. Run `git push origin <branch-name>` to push the branch to the remote repository.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    How to create a pull request:
+    1. Go to the repository on GitHub.
+    2. Click on the "Pull requests" tab.
+    3. Click on the "New pull request" button.
+    4. Select the branch you want to merge into the main branch.
+    5. Click on the "Create pull request" button.
+    6. Assign the pull request to at least one other team member for review.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    How to merge a pull request:
+    1. Go to the repository on GitHub.
+    2. Click on the "Pull requests" tab.
+    3. Click on the pull request you want to merge.
+    4. Click on the "Merge pull request" button.
+    5. Click on the "Confirm merge" button.
 
-## Deploy on Vercel
+    How to delete a branch:
+    1. Run `git branch -d <branch-name>` to delete the branch locally.
+    2. Run `git push origin --delete <branch-name>` to delete the branch remotely.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+> ## **Need Help?**
+
+> If you have any questions or you find rules and regulations hard to understand or need assistance in anything else, feel free to reach out to me.
+
+## Description
+
+- Subly takes the hassle out of email marketing. Craft compelling newsletters with intelligent content suggestions. Analyze data insights to optimize your reach. Automate your workflow, streamline your strategy.
+
+## Features
+
+- **Newsletter Builder**: Create beautiful newsletters with our drag-and-drop editor. Choose from a variety of templates and customize them to your liking.
+
+- **Content Suggestions**: Get intelligent content suggestions based on your audience's preferences. Save time and effort by letting Subly do the heavy lifting.
+
+- **Data Insights**: Analyze data insights to optimize your reach. Track open rates, click-through rates, and more to understand what works best for your audience.
+
+- **Automation**: Automate your workflow and streamline your strategy. Schedule newsletters in advance and let Subly take care of the rest.
+
+## Tech Stack
+
+- **Frontend**: Nextjs14, Zustand, Tailwind CSS
+- **Backend**: Node.js, AWS SES, AstraDB
+- **APIs**: Stripe, Google Analytics
+
+## Team
+
+<div style="display: flex; gap: 15px;">
+<img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
+</div>
+
+## Usage
+
+1. Clone the repository.
+2. Install the dependencies using `npm install`.
+3. Run the development server using `npm run dev`.
+
+## License
+
+This project is unlicensed.
