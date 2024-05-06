@@ -73,7 +73,7 @@
 
 <div style="display: flex; gap: 15px;">
 <img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
-<img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://github.com/aniketsinghh.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
 <img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
 <img src="https://github.com/mic-360.png" alt="User Avatar" width="50" height="50" style="border-radius: 50%;">
 </div>
