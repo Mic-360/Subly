@@ -1,5 +1,5 @@
 # Subly: Newsletter Hub
-    Timestamp: 11:32 / 6:39:56 - Bhaumic
+    Timestamp: 19:55 / 6:39:56 - Abhay
 
 ![Newsletter Image](./public/fancybackground.png)
 
